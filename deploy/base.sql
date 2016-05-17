@@ -2,8 +2,6 @@
 
 BEGIN;
 
--- XXX Add DDLs here.
-
 create role anon;
 create role admin;
 create role authenticator noinherit;
