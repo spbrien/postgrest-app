@@ -2,3 +2,4 @@
 %project=postgrest-blog
 %uri=https://bitbucket.org/spbrien/postgrest-app
 
+base 2016-05-17T15:45:46Z Steven Brien <spbrien@gmail.com> # Base authentication and roles required for every project
