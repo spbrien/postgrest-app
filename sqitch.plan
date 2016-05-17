@@ -2,3 +2,4 @@
 %project=postgrest-blog
 %uri=https://bitbucket.org/spbrien/postgrest-app
 
+appschema 2016-05-17T14:20:17Z Steven Brien <spbrien@gmail.com> # Add schema for all postgres-blog objects
