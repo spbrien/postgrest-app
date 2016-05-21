@@ -1,0 +1,12 @@
+postgres:
+  restart: always
+  build: ../postgres
+  ports:
+    - "5432:5432"
+
+api:
+  restart: always
+  build: ../api
+  ports:
+    - "3000:3000"
+
